@@ -1,5 +1,8 @@
 # Methane_mitigation_webtool
 
+Link to access the methane mitigation assessment tool:
+https://methanemitigation-4a93vax45iakktuyzi3jpy.streamlit.app/
+
 Methane Mitigation Assessment Webtool Version1.0
 
 The EPA and IEA modeled methane emission scenario provides an exhaustive technology intervention that demonstrates the possible abatement in emissions as well as the corresponding economic savings. In order to effectively communicate the following opportunities to the policy makers and stake holders, we device a strategy that is efficient and easy-to-understand without detailing each technical option. We classify each listed technology intervention into sub-categories that broadly represent coherences in their functionality. For example, the 18 abatement technologies from oil and gas sector were classified under three categories of replace, retrofit, and repair; where replace category implies replacing either a mechanical component in the existing technology or replacing the whole technology with new advanced feature. Similarly, retrofit category includes all the interventions which deals with installing an additional unit that captures or recovers fugitive methane. Finally, repair category enlists those interventions which involves inspection and maintenance of either mechanical device or a unit operation. Given below are the sub-categories in each source (sector) that explains the underlying classifying feature.
@@ -28,10 +31,6 @@ Landfill (Waste)
 •	Gas recovery: Methane is recovered using anerobic methods and later transported
 •	Flaring and oxidation: On-site disposal technologies
 •	Treatment and recycling: Technologies/processes that involve further treatment of waste or transform into recyclable product.
-
-
-Link to access the methane mitigation assessment tool:
-https://methanemitigation-4a93vax45iakktuyzi3jpy.streamlit.app/
 
 
 How to use the tool?
